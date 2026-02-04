@@ -56,7 +56,7 @@
 
 ### 前置需求 (Prerequisites)
 
-    請根據程式碼安裝對應的開發環境， LabVIEW 2018、Python、MATLAB
+請根據程式碼安裝對應的開發環境， LabVIEW、Python、MATLAB
 
 ### 使用方式
 
