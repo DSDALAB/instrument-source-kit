@@ -7,7 +7,7 @@
 *.llb
 
 # Shared objects (inc. Windows DLLs)
-*.dll
+
 *.so
 *.so.*
 *.dylib
@@ -19,5 +19,6 @@
 *.aliases
 *.lvlps
 .cache/
+Log
 
 # End of https://www.toptal.com/developers/gitignore/api/labview
